@@ -1,0 +1,16 @@
+{
+  "name": "hop2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "asdf",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "weather-bar-app": "^1.0.1"
+  }
+}
